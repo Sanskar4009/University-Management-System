@@ -4,3 +4,9 @@ Functional req
 a.login
 b.timetable page
 c.view attendance page
+
+non-functional req
+a. security checck
+b. usability
+c. scalability
+
