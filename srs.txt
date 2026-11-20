@@ -1,0 +1,6 @@
+here i am writing the requirements of SRS
+
+Functional req
+a.login
+b.timetable page
+c.view attendance page
